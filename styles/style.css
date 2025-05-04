@@ -341,6 +341,7 @@ ul {
   box-sizing: border-box;
   background-color: #1f1f1f;
   padding: 60px 80px;
+  color: #ffffff;
 }
 
 .footer__columns {
@@ -362,7 +363,6 @@ ul {
 }
 
 .footer__column-heading {
-  color: white;
   margin: 0 0 20px;
 }
 
@@ -373,12 +373,10 @@ ul {
 }
 
 .footer__list-item {
-  color: white;
   margin-top: 16px;
 }
 
 .footer__column-link {
-  color: white;
   text-decoration: none;
   display: flex;
   column-gap: 10px;
@@ -392,6 +390,5 @@ ul {
 }
 
 .footer__copyright {
-  color: white;
   margin-top: 100px;
 }
