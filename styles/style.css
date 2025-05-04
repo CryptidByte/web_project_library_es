@@ -339,7 +339,7 @@ ul {
 
 .footer {
   box-sizing: border-box;
-  background-color: #000;
+  background-color: #1f1f1f;
   padding: 60px 80px;
 }
 
@@ -363,15 +363,18 @@ ul {
 
 .footer__column-heading {
   color: white;
-  margin-bottom: 20px;
+  margin: 0 0 20px;
 }
 
 .footer__list {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .footer__list-item {
   color: white;
+  margin-top: 16px;
 }
 
 .footer__column-link {
