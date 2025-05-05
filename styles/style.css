@@ -57,9 +57,7 @@ ul {
 }
 
 .nav__link:hover {
-  border-bottom: 1px solid;
-  background: #057bf2;
-  color: white;
+  box-shadow: 0 3px #057bf2;
 }
 
 .header__content {
